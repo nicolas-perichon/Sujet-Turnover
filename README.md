@@ -45,6 +45,7 @@ Notre variable cible sera celle du `depart`, être capable de déterminer à par
 * On réalise ensuite différents graphiques pour constater la proportion de départ ou non par rapport à différentes variables.
 * On réalise également une matrice de corrélation pour remarquer quelles variables sont plus importantes que d'autres pour la suite. Cela permet d'avoir un premier aperçu.
 * Le VCramer sera intéressant pour comparer les variables qu'il choisit automatiquement (corrélées) avec les résultats de la matrice précédente. Cela nous donne deux analyses pour confirmer notre choix ou non.
+* On crée une matrice de corrélation sur les scores précédents.
 * On entraîne ensuite notre jeu de données sur 4 modèles : Random Forest / Logistic Regression / KNN / SVM
 * On compare les taux de fiabilité et on affiche les matrices de confusion qui permettent de voir les faux positifs et les faux négatifs.
 * On en conclut le meilleur modèle.
@@ -53,3 +54,7 @@ Notre variable cible sera celle du `depart`, être capable de déterminer à par
   * `heures_totales` : c'est la multiplication du `Nombre_heures_mensuelles_moyenne` par 12 (une année) et par le `Temps_passe_dans_entreprise` (en années).
   * `projets_par_années` : c'est le `Nombre_de_projets` par rapport au `Temps_passe_dans_entreprise`.
   * `satisf_eval` : c'est la `Satisfaction` divisée par `Deniere_evalutation`.
+* On refait une matrice de corrélation suivi d'un VCramer.
+* On recrée la matrice associée et on constate que nos 3 nouvelles variables sont bien parmis les plus corrélées.
+* On réalise cette fois un ou des modèles précédents sur les meilleures features.
+* On compare les résultats et on conlut.
