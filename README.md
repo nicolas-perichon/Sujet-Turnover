@@ -7,7 +7,7 @@ Nous disposons d'un jeu de données concernant les départs des salariés d'une 
 
 * `Satisfaction` : c'est une note sur 1 représentant le taux de satisfaction du salarié dans son métier (son épanouissement).
   * Type : float
-* `Deniere_evalutation` : cela correspond à la dernière note attribuée au collaborateur.
+* `Deniere_evaluation` : cela correspond à la dernière note attribuée au collaborateur.
   * Type : float
 * `Nombre_de_projets` : nombre de missions sur lesquelles le salarié travaille.
   * Type : int
