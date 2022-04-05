@@ -1,4 +1,5 @@
 # Analyse et prédiction de données Turnover
+###### Léonie BERTON, Ninon QUESNEL, Paul REVERSAC, Nicolas PERICHON
 
 ## Partie I
 
