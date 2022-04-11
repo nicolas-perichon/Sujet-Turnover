@@ -1,0 +1,21 @@
+Satisfaction;Accident_du travail;heures_totales;projets_par_années;satisf_eval;random forest;logistic regression;knn;svm;expected
+0.45;0.0;4860.0;0.66;0.83;Left;Stay;Left;Stay
+0.11;0.0;14640.0;1.5;0.13;Left;Left;Left;Left
+0.84;0.0;14040.0;0.8;0.91;Left;Stay;Left;Left
+0.41;0.0;5328.0;0.66;0.74;Left;Stay;Left;Left
+0.36;0.0;4932.0;0.66;0.64;Left;Left;Left;Left
+0.38;0.0;5148.0;0.66;0.7;Left;Stay;Left;Left
+0.45;0.0;5760.0;0.66;0.95;Left;Stay;Left;Stay
+0.78;0.0;18360.0;0.66;0.78;Left;Stay;Stay;Left
+0.45;1.0;5760.0;0.66;0.88;Left;Stay;Left;Stay
+0.76;0.0;15720.0;1.0;0.85;Left;Stay;Left;Left
+0.44;0.0;5616.0;0.66;0.86;Left;Stay;Left;Stay
+0.09;0.0;16980.0;1.4;0.11;Left;Left;Left;Left
+0.92;1.0;16272.0;0.66;1.05;Stay;Stay;Left;Left
+0.74;0.0;13920.0;0.8;0.81;Left;Stay;Left;Left
+0.09;0.0;11952.0;1.5;0.11;Left;Left;Stay;Left
+0.89;0.0;16500.0;0.8;0.93;Left;Stay;Left;Left
+0.1;0.0;13344.0;1.5;0.11;Left;Left;Left;Left
+0.81;0.0;15180.0;0.8;0.81;Left;Stay;Left;Left
+0.11;0.0;13536.0;1.5;0.13;Left;Left;Left;Left
+0.11;0.0;12672.0;1.75;0.13;Left;Stay;Left;Left
