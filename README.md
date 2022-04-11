@@ -7,7 +7,7 @@ Nous disposons d'un jeu de données concernant les départs des salariés d'une 
 
 * `Satisfaction` : c'est une note sur 1 représentant le taux de satisfaction du salarié dans son métier (son épanouissement).
   * Type : float
-* `Deniere_evaluation` : cela correspond à la dernière note attribuée au collaborateur.
+* `Derniere_evaluation` : cela correspond à la dernière note attribuée au collaborateur.
   * Type : float
 * `Nombre_de_projets` : nombre de missions sur lesquelles le salarié travaille.
   * Type : int
@@ -32,8 +32,8 @@ Notre variable cible sera celle du `depart`, être capable de déterminer à par
 
 ### Architecture du projet
 
-* On crée un répertoire `DataBaseTrain`dans lequel se situe le fichier *csv*. Il sera utilisé pour l'entraînement de nos modèles.
-* On crée un répertoire `DataBaseTest` dans lequel nous situerons un fichier "externe" (reprenant le schéma de la base de données de *train*) pour tester nos modèles.
+* On crée un répertoire `DataBaseTrain` dans lequel se situe le fichier *csv*. Il sera utilisé pour l'entraînement de nos modèles.
+* On crée un répertoire `DataBaseTest` dans lequel nous situons un fichier "externe" (reprenant le schéma de la base de données de *train*) pour tester nos modèles.
 * On crée un fichier *jupyter notebook* sur lequel nous réaliserons notre développement (code) à la racine du projet GIT.
 
 ### Plan de développement
